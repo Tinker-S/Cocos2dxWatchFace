@@ -25,3 +25,9 @@ proguard/
 
 # Log Files
 *.log
+
+cocos2d
+proj.android/bin
+proj.android/obj
+proj.android/.settings
+proj.android/.classpath
